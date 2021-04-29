@@ -6,4 +6,6 @@ public class Test {
 	
 	//james wrote this :)
 
+	//new line here
+
 }
