@@ -9,7 +9,5 @@ public class Test {
 	//new line here
 
 	// NEW CODE
-	
-	// NEW CODE PART 2
 
 }
