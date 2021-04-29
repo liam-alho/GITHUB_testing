@@ -8,4 +8,5 @@ public class Test {
 
 	//new line here
 
+	// NEW CODE
 }

@@ -8,6 +8,7 @@ import java.util.logging.Logger;
 
 
 /** Creating Database login info */
+/** NEW CODE */
 
 public class DatabaseHandler {
     private Connection con;
